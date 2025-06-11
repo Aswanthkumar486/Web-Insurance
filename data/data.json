@@ -1,0 +1,344 @@
+{
+  "company": {
+    "name": "Edelweiss Tokio",
+    "slogan": "Securing Futures, Delivering Trust",
+    "logo": "/logo.svg"
+  },
+  "nav": {
+    "logo": "Edelweiss Tokio",
+    "nav-list": ["Home", "About", "Plans", "Claims", "Contact"],
+    "cta": "Get Quote",
+    "phone": "+91 1800 200 9898"
+  },
+  "hero": {
+    "title": "Peace of Mind Through Trusted Protection",
+    "subtitle": "Choose from a wide range of reliable insurance solutions",
+    "ctaText": "Start Your Coverage",
+    "features": [
+      "24/7 Claim Support",
+      "98% Claim Satisfaction Rate",
+      "PAN India Network"
+    ],
+    "carouselImages": [
+      "https://blog.geojit.com/wp-content/uploads/2020/12/iStock-1226082621-1920x1280.jpg",
+      "https://report.woodard.com/hubfs/Business%20Insurance.jpg",
+      "https://qualityincentivecompany.com/wp-content/uploads/2024/03/Nurturing-a-Workplace-Culture-of-Trust-and-Collaboration.jpg"
+    ]
+  },
+  "stats": {
+    "title": "Why Clients Trust Us",
+    "items": [
+      {
+        "value": "15K+",
+        "label": "Happy Clients"
+      },
+      {
+        "value": "₹500Cr+",
+        "label": "Claims Settled"
+      },
+      {
+        "value": "98%",
+        "label": "Claim Approval Rate"
+      },
+      {
+        "value": "24/7",
+        "label": "Customer Support"
+      }
+    ]
+  },
+ "services": {
+  "title": "Our Insurance Plans",
+  "subtitle": "Comprehensive protection for all aspects of your life",
+  "items": [
+    {
+      "id": 1,
+      "title": "Life Insurance",
+      "description": "Secure your family's future with flexible life coverage options.",
+      "features": ["Term Plans", "Whole Life", "Retirement Solutions"],
+      "icon": "https://www.amistadinsuranceservices.com/wp-content/uploads/2019/11/advantages-of-whole-life-insurance-768x512.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Health Insurance",
+      "description": "Complete medical coverage for individuals and families.",
+      "features": ["Cashless Hospitals", "Critical Illness", "Preventive Care"],
+      "icon": "https://t3.ftcdn.net/jpg/00/97/64/28/360_F_97642856_AZbyW4zYLiJvvlhd3naN75vnxmkiYVCZ.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vehicle Insurance",
+      "description": "Comprehensive protection for cars, bikes, and commercial vehicles.",
+      "features": ["Zero Depreciation", "Roadside Assistance", "Engine Protection"],
+      "icon": "https://www.quoteinspector.com/media/car-insurance/auto-insurance-policy-wood.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Travel Insurance",
+      "description": "Global coverage for domestic and international travelers.",
+      "features": ["Trip Cancellation", "Medical Evacuation", "Lost Luggage"],
+      "icon": "https://www.salamair.com/images/Travel%20insurance%2002%20.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Home Insurance",
+      "description": "Protect your home against natural disasters and accidents.",
+      "features": ["Structure & Contents", "Natural Disasters", "Theft Protection"],
+      "icon": "https://th.bing.com/th/id/R.20b9bdd7c886310689a8b51d080ce263?rik=Ep%2fKBOULgcjnuQ&riu=http%3a%2f%2fblog.ryanhlaw.com%2fwp-content%2fuploads%2f2016%2f03%2fhomeowners-insurance.jpg&ehk=kxkDBYXSLKK7k4xiAUs7hzn2cV0A1XJL3d3pvxcQIQ8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
+    },
+    {
+      "id": 6,
+      "title": "Business Insurance",
+      "description": "Tailored solutions for small businesses and enterprises.",
+      "features": ["Liability Coverage", "Business Interruption", "Cyber Protection"],
+      "icon": "https://report.woodard.com/hubfs/Business%20Insurance.jpg"
+    }
+  ]
+}
+ ,
+  "about": {
+    "title": "About Edelweiss Tokio",
+    "subtitle": "Your Trusted Insurance Partner Since 2005",
+    "content": "Edelweiss Tokio Life Insurance is a joint venture between Edelweiss Financial Services and Tokio Marine Group, Japan's oldest insurance company. With over 2 decades of experience and a 98% claim satisfaction rate, we've protected millions of families and businesses across India.",
+    "mission": "Our mission is to make insurance simple, accessible, and trustworthy through transparent policies and exceptional customer service.",
+    "values": [
+      "Customer First Approach",
+      "Transparency in Operations",
+      "Innovative Solutions",
+      "Social Responsibility"
+    ],
+    "image": "https://primemlmsoftware.com/wp-content/uploads/2024/11/can-you-create-an-image-with-an-insurance-company-LOMtMSp8S3uOqtH3Le0zXg-oP4-Yk-hTRCZe1UnEzrdHQ.jpeg"
+  },
+  "works": {
+    "title": "Our Success Stories",
+    "subtitle": "Real Claims, Real Impact",
+    "projects": [
+      {
+        "id": 1,
+        "title": "Flood Damage Recovery",
+        "description": "Processed ₹10 Lakhs home insurance claim within 72 hours during Kerala floods",
+        "testimonial": "Edelweiss Tokio helped us rebuild when everything was lost. Their support team was available 24/7 during the crisis.",
+        "client": "Rajesh Nair, Kochi",
+        "image": "https://images.unsplash.com/photo-1590650046871-92c887180603",
+        "tech": ["Home Insurance", "Natural Disaster", "Emergency Response"]
+      },
+      {
+        "id": 2,
+        "title": "Family Financial Security",
+        "description": "Secured ₹50 Lakhs for a family within 7 days of policyholder's demise",
+        "testimonial": "The claim settlement gave us financial stability during our toughest time. Thank you for your compassion.",
+        "client": "Sunita Mehta, Delhi",
+        "image": "https://th.bing.com/th/id/OIP.eJrWfZtB6ShPDTjPPyvxvgHaD4?rs=1&pid=ImgDetMain",
+        "tech": ["Life Insurance", "Family Protection", "Quick Settlement"]
+      },
+      {
+        "id": 3,
+        "title": "Medical Emergency Support",
+        "description": "Approved ₹2.5 Lakhs for emergency surgery within 24 hours",
+        "testimonial": "Cashless hospitalization and immediate claim processing made our medical emergency manageable.",
+        "client": "Vikram Singh, Mumbai",
+        "image": "https://britishwire.com/wp-content/uploads/2022/06/Most-efficient-health-care-systems-scaled.jpeg",
+        "tech": ["Health Insurance", "Critical Care", "Cashless Treatment"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Trusted by over 15,000 policyholders across India",
+    "items": [
+      {
+        "id": 1,
+        "content": "Their claim process is incredibly smooth. Received my vehicle insurance settlement within 3 days after the accident.",
+        "author": "Amit Sharma",
+        "role": "Auto Insurance Holder"
+      },
+      {
+        "id": 2,
+        "content": "The health insurance plan saved us during a medical emergency. The cashless hospitalization feature is a lifesaver.",
+        "author": "Priya Reddy",
+        "role": "Family Health Plan Holder"
+      },
+      {
+        "id": 3,
+        "content": "As a small business owner, their customized business insurance gives me peace of mind to focus on growth.",
+        "author": "Rahul Kapoor",
+        "role": "Business Insurance Client"
+      }
+    ]
+  },
+"partners": {
+  "title": "Trusted By Leading Organizations",
+  "items": [
+    {
+      "name": "IRDAI Certified",
+      "logo": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "name": "ISO 27001 Certified",
+      "logo": "https://c8.alamy.com/comp/2WC62CX/iso-seal-iso-stamp-certified-company-certificate-iso-90012015-blue-vector-quality-certificate-2WC62CX.jpg"
+    },
+    {
+      "name": "Associated with NIA",
+      "logo": "https://cdn.siasat.com/wp-content/uploads/2022/09/nia-nia.png"
+    },
+    {
+      "name": "Awarded Best Insurer 2023",
+      "logo": "https://images.bisnis.com/posts/2023/08/11/1683930/bisnis.com-tugu-insurance-kembali-raih-best-general-insurance-award-2023.jpg"
+    }
+  ]
+}
+,
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Our advisors are ready to assist you",
+    "companyName": "Edelweiss Tokio Life Insurance",
+    "description": "Serving individuals and businesses with reliable insurance solutions since 2005.",
+    "info": [
+      {
+        "icon": "geo-alt",
+        "title": "Head Office",
+        "value": "Edelweiss House, Off CST Road, Kalina, Mumbai 400098"
+      },
+      {
+        "icon": "telephone",
+        "title": "Contact Number",
+        "value": "+91 1800 200 9898"
+      },
+      {
+        "icon": "envelope",
+        "title": "Email Support",
+        "value": "support@edelweisstokio.in"
+      },
+      {
+        "icon": "clock",
+        "title": "Working Hours",
+        "value": "Mon-Sat: 9:00 AM - 7:00 PM"
+      }
+    ],
+    "formFields": [
+      {
+        "label": "Full Name",
+        "type": "text",
+        "name": "name",
+        "placeholder": "e.g., Priya Sharma",
+        "required": true
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "name": "email",
+        "placeholder": "you@example.com",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "name": "phone",
+        "placeholder": "+91 98765 43210",
+        "required": true
+      },
+      {
+        "label": "Insurance Interest",
+        "type": "select",
+        "name": "service",
+        "options": [
+          "Life Insurance",
+          "Health Insurance",
+          "Vehicle Insurance",
+          "Home Insurance",
+          "Travel Insurance",
+          "Business Insurance"
+        ],
+        "required": true
+      },
+      {
+        "label": "Message",
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "How can we assist you?",
+        "required": true
+      }
+    ],
+    "ctaText": "Submit Inquiry"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Get answers to common insurance questions",
+    "items": [
+      {
+        "question": "How long does the claim process take?",
+        "answer": "Most claims are processed within 7-10 working days. For emergency situations like health crises or natural disasters, we have a fast-track process that settles claims within 72 hours."
+      },
+      {
+        "question": "Can I customize my insurance policy?",
+        "answer": "Yes, we offer flexible riders and add-ons to customize your policy. Our advisors will help you build a plan that matches your specific needs and budget."
+      },
+      {
+        "question": "What documents are needed for claims?",
+        "answer": "Required documents vary by claim type. Generally, you'll need the claim form, identity proof, policy documents, and incident-specific evidence. Our app guides you through the exact requirements for your claim."
+      },
+      {
+        "question": "How do premium payments work?",
+        "answer": "You can pay premiums annually, semi-annually, quarterly, or monthly through multiple channels including online payments, auto-debit, UPI, and cheque."
+      }
+    ]
+  },
+  "footer": {
+    "about": "Edelweiss Tokio Life Insurance provides comprehensive protection solutions for individuals, families and businesses across India since 2005.",
+    "links": [
+      {
+        "title": "Quick Links",
+        "items": [
+          {"name": "Home", "url": "#"},
+          {"name": "About Us", "url": "#about"},
+          {"name": "Insurance Plans", "url": "#services"},
+          {"name": "Claims Process", "url": "#claims"},
+          {"name": "Customer Stories", "url": "#works"}
+        ]
+      },
+      {
+        "title": "Insurance Products",
+        "items": [
+          {"name": "Term Life Insurance", "url": "#"},
+          {"name": "Health Insurance", "url": "#"},
+          {"name": "Car Insurance", "url": "#"},
+          {"name": "Two Wheeler Insurance", "url": "#"},
+          {"name": "Home Insurance", "url": "#"}
+        ]
+      },
+      {
+        "title": "Support",
+        "items": [
+          {"name": "Contact Us", "url": "#contact"},
+          {"name": "FAQs", "url": "#faq"},
+          {"name": "Download Forms", "url": "#"},
+          {"name": "Branch Locator", "url": "#"},
+          {"name": "Customer Portal", "url": "#"}
+        ]
+      }
+    ],
+    "socialMedia": [
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/edelweisstokio",
+        "icon": "/social/facebook.svg"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/edelweisstokio",
+        "icon": "/social/twitter.svg"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/company/edelweisstokio",
+        "icon": "/social/linkedin.svg"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://youtube.com/edelweisstokio",
+        "icon": "/social/youtube.svg"
+      }
+    ],
+    "disclaimer": "Edelweiss Tokio Life Insurance Company Limited (IRDAI Registration Number 136. CIN: U66010MH2009PLC190670). Registered Office: Edelweiss House, Off CST Road, Kalina, Mumbai - 400098. Toll Free: 1800 200 9898.",
+    "copyright": "© 2025 Edelweiss Tokio Life Insurance. All rights reserved."
+  }
+}
