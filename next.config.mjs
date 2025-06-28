@@ -1,10 +1,15 @@
+/** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig = {
-  reactStrictMode: true,
+  output: 'export',
+  reactStrictMode: false,
   images: {
     unoptimized: true,
-    domains: ['images.unsplash.com', 'cdn-icons-png.flaticon.com'],
+    domains: ['www.bing.com', 'example.com', 'images.unsplash.com'],
   },
-  output: 'export', // for static export (optional if using `next export`)
+  basePath: isProd ? '/Web-Logistics' : '',
+  assetPrefix: isProd ? '/Web-Logistics/' : '',
 };
 
 export default nextConfig;
